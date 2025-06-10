@@ -25,4 +25,3 @@ app.listen(port, () => {
     throw err;
 });
 
-// just testing
